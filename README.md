@@ -4,7 +4,7 @@ Next, I hv designed a data model that represents the relationships between to-do
 I used Django’s built-in object-relational mapping tool to automatically generate the database 
 and tables that’ll support this model.
 
-As I develop Django to-do list app, I hv use Django’s handy runserver command whenever you need 
+As I develop Django to-do list app, I hv use Django’s handy runserver command whenever i need 
 to verify that things are working as expected. This can help even before your web pages are ready,
 thanks to Django’s ready-made admin interface.
 
